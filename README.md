@@ -21,7 +21,7 @@ How do we create objects of nestec class?
     }
   }
 
-  clas Main{
+  class Main{
     public static void main(String args[]){
       A obj = new A();
       obj.show();
